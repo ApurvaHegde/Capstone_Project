@@ -11,7 +11,7 @@
 ### python -m venv venv  <br><br>
 
 ## Activate virtual evnironment:  <br>
-### venv/bin/activate
+### venv/Scipts/activate.bat
 
 ## Deactivate virtual evnironment:  <br>
 ### deactivate  <br><br>
